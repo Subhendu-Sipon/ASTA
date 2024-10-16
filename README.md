@@ -1,16 +1,11 @@
-# asta_timer
+# ASTA
 
 Another Simple Timer App
 
-## Getting Started
+## PURPOSE
 
-This project is a starting point for a Flutter application.
+This is just another simple timer app that rings the sound after a certain interval.
 
-A few resources to get you started if this is your first Flutter project:
+## USAGE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Do use this app download from RELEASES Section
